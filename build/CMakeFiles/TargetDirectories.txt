@@ -1,0 +1,5 @@
+/home/eric/Algorith_and_Datastructures/GrunitzEric120232Ass3/build/CMakeFiles/rebuild_cache.dir
+/home/eric/Algorith_and_Datastructures/GrunitzEric120232Ass3/build/CMakeFiles/edit_cache.dir
+/home/eric/Algorith_and_Datastructures/GrunitzEric120232Ass3/build/source/CMakeFiles/rebuild_cache.dir
+/home/eric/Algorith_and_Datastructures/GrunitzEric120232Ass3/build/source/CMakeFiles/djikstra.dir
+/home/eric/Algorith_and_Datastructures/GrunitzEric120232Ass3/build/source/CMakeFiles/edit_cache.dir
